@@ -1,4 +1,4 @@
-Facebook Hunter Version 2.0
+Facebook Hunter Version 2.1
 
 Author: W1nz0N
 Credits: ZeDD
